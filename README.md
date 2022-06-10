@@ -2,4 +2,10 @@
 
 Utilized various data visualization techniques to create a poster on a dataset detailing volcanic eruptions using R and Adobe Illustrator. 
 
+Zachary_Chipman_Final_Poster.pdf: Poster for the IST719 final project.
+
+Zachary_Chipman_Final_Poster.R: R code used to make plots shown in the poster. These plots will vary slightly to the ones in the final poster as some aesthetic edits were made in Adobe illustrator. R-studio will be required to view this file.
+
+Sources are listed at the bottom of the poster.
+
 (Note: Video presentation not included due to its size)
