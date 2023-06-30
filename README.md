@@ -1,5 +1,7 @@
 # Visualizing_Volcano_Data:
 
+## Background:
+
 Utilized various data visualization techniques to create a poster on a dataset detailing volcanic eruptions using R and Adobe Illustrator. This poster was the final project for the Data Visualization course at Syracuse University. The goal of the poster was to answer three questions:
 
 1. Where are the volcanoes located?
